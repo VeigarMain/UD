@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/FinalUserDirectory/static/css/main.e73192a4.chunk.css",
-    "main.js": "/FinalUserDirectory/static/js/main.221070e9.chunk.js",
-    "main.js.map": "/FinalUserDirectory/static/js/main.221070e9.chunk.js.map",
-    "runtime~main.js": "/FinalUserDirectory/static/js/runtime~main.ae63c219.js",
-    "runtime~main.js.map": "/FinalUserDirectory/static/js/runtime~main.ae63c219.js.map",
-    "static/css/2.2a86faee.chunk.css": "/FinalUserDirectory/static/css/2.2a86faee.chunk.css",
-    "static/js/2.354f39a7.chunk.js": "/FinalUserDirectory/static/js/2.354f39a7.chunk.js",
-    "static/js/2.354f39a7.chunk.js.map": "/FinalUserDirectory/static/js/2.354f39a7.chunk.js.map",
-    "index.html": "/FinalUserDirectory/index.html",
-    "precache-manifest.0b843918730467582fd30f4636770332.js": "/FinalUserDirectory/precache-manifest.0b843918730467582fd30f4636770332.js",
-    "service-worker.js": "/FinalUserDirectory/service-worker.js",
-    "static/css/2.2a86faee.chunk.css.map": "/FinalUserDirectory/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.e73192a4.chunk.css.map": "/FinalUserDirectory/static/css/main.e73192a4.chunk.css.map"
+    "main.css": "/UD/static/css/main.e73192a4.chunk.css",
+    "main.js": "/UD/static/js/main.221070e9.chunk.js",
+    "main.js.map": "/UD/static/js/main.221070e9.chunk.js.map",
+    "runtime~main.js": "/UD/static/js/runtime~main.9055882a.js",
+    "runtime~main.js.map": "/UD/static/js/runtime~main.9055882a.js.map",
+    "static/css/2.2a86faee.chunk.css": "/UD/static/css/2.2a86faee.chunk.css",
+    "static/js/2.354f39a7.chunk.js": "/UD/static/js/2.354f39a7.chunk.js",
+    "static/js/2.354f39a7.chunk.js.map": "/UD/static/js/2.354f39a7.chunk.js.map",
+    "index.html": "/UD/index.html",
+    "precache-manifest.a73a432babc4976d6fcd7f39d4f4aee4.js": "/UD/precache-manifest.a73a432babc4976d6fcd7f39d4f4aee4.js",
+    "service-worker.js": "/UD/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/UD/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.e73192a4.chunk.css.map": "/UD/static/css/main.e73192a4.chunk.css.map"
   }
 }
